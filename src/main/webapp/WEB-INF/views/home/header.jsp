@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha384-o4gDO/E5EaezLXTPi5kl1lPh6Muh9G1gk6ykxHPFvHxN52XR2g3c9COeFRI2ELbK" crossorigin="anonymous">
 
     <!-- Thêm các tệp CSS, thư viện hoặc inline styles tại đây nếu cần -->
 
