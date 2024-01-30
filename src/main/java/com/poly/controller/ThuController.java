@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("home")
 public class ThuController {
-	@GetMapping("header")
-	public String header(Model model) {
-		return "home/header";
+	@GetMapping("index")
+	public String index(Model model) {
+		return "home/index";
 	}
 }
